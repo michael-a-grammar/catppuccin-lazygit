@@ -19,5 +19,12 @@ theme:
   searchingActiveBorderColor:
     - '#f9e2af'
 
+  inactiveViewSelectedLineBgColor:
+    - '#1e1e2e'
+  markedBaseCommitFgColor:
+    - '#11111b'
+  markedBaseCommitBgColor:
+    - '#89dceb'
+
 authorColors:
   '*': '#b4befe'
